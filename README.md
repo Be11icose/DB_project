@@ -3,7 +3,9 @@
 Решение представляет из себя web-приложение по работе с базой данных.
 ## Схема базы данных
 
-![alt text](DB_project/blob/master/scheme.png)
+<br>
+<img height="300" src="https://github.com/Be11icose/DB_project/blob/master/scheme.png"/>
+<br>
 
 ## Реализованные функции
 
