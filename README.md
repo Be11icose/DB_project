@@ -3,7 +3,7 @@
 Решение представляет из себя web-приложение по работе с базой данных.
 ## Схема базы данных
 
-![alt text](DB_project/scheme.png)
+![alt text](DB_project/blob/master/scheme.png)
 
 ## Реализованные функции
 
